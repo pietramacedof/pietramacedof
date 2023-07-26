@@ -1,4 +1,4 @@
-### Olá! Eu sou a Pietra Macedo!
+### Olá! Eu sou Pietra Macedo
 
 - 🔭 Me aventurando pelo universo da programação
 - 🌱 Estudando JavaScript e Python
@@ -25,4 +25,5 @@
   <a href= "mailto:pietrag89@gmail.com target="_blank""> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <br>
+   <img scr="https://github.com/pietramacedof/pietramacedof/assets/133932714/1a01f307-d235-429f-8976-70c0e1fe01d3"/>
 </body>
